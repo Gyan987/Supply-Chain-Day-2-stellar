@@ -62,8 +62,7 @@ Built using Stellar Soroban, providing fast (~5s finality) and low-cost (<$0.01)
 - **Contract Address:**  
   `CCNVR62R0F3MFU4MYZWGIEPRVLBGWQVVVFNPW44TVVHXA4AYNJP7ARG`  
 
-- **Status:** Build Unverified  
-- **Storage:** 1 entry  
+ 
 
 ---
 
